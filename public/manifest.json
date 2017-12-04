@@ -1,0 +1,25 @@
+{
+    "short_name": "sdz",
+    "name": "Ster der zee",
+    "icons": [
+      {
+        "src": "images/tm.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "images/tm.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "images/tm.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#FFFFFF",
+    "display" : "standalone",
+    "orientation" : "portrait"
+  }
